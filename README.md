@@ -43,7 +43,7 @@ RDBMS Concepts, SQL Concepts & Fundamentals
     </li><li>
     <a href=https://yogeshwarreddy.github.io/FactoryPatternExample/>Factory design pattern</a>
     </li><li>
-    <a href=#>Observer design pattern</a>
+    <a href=https://yogeshwarreddy.github.io/ObserverListenerPatternExample/>Observer design pattern</a>
     </li><li>
     <a href=#>Proxy design pattern</a>
     </li></ul></li>
