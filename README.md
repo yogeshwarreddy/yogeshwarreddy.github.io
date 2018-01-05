@@ -22,5 +22,5 @@
   - [Observer design pattern](https://yogeshwarreddy.github.io/ObserverListenerPatternExample/)
   - [Proxy design pattern](#)
 - Maven Basics, Web/App Server Basics
-  - [ParentPom Example](#)
+  - [ParentPom Example](https://yogeshwarreddy.github.io/ParentPom/)
   
