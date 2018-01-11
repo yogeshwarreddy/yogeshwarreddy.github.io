@@ -9,8 +9,8 @@
   - [Synchronized OddEven Printing Threads](#)
   - [Producer Consumer using BlockingQueues](https://yogeshwarreddy.github.io/ProducerConsumer/)
 - JSP and Servlets
-  - [CRUD on DB object](#)
-  - [Communication between servlets during request forwarding using RequestDispatcher](#)
+  - [CRUD on DB object](https://yogeshwarreddy.github.io/ServletDBCRUD/)
+  - [Communication between servlets during request forwarding using RequestDispatcher](https://yogeshwarreddy.github.io/ServletDBCRUD/)
   - [Basic Authentication Servlets](#)
 - SOAP Webservices in Java
   - [CRUD](#) 
