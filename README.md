@@ -6,7 +6,7 @@
   - [Java Assignment (Telephone)](https://yogeshwarreddy.github.io/Telephone/)
   - [Advanced Java Assignment](#)
 - MultiThreading in Java
-  - [Synchronized OddEven Printing Threads](#)
+  - [Synchronized OddEven Printing Threads](https://yogeshwarreddy.github.io/EvenOddMultiThread/)
   - [Producer Consumer using BlockingQueues](https://yogeshwarreddy.github.io/ProducerConsumer/)
 - JSP and Servlets
   - [CRUD on DB object](https://yogeshwarreddy.github.io/ServletDBCRUD/)
