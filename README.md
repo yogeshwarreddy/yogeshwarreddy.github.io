@@ -15,7 +15,7 @@
 - SOAP Webservices in Java
   - [CRUD](#) 
 - REST Webservices in Java
-  - [Rest Webservices using Jersey](#)
+  - [Rest Webservices using Jersey](https://yogeshwarreddy.github.io/RestJerseyAssigment/)
 - Design Principles/Patterns Foundation
   - [Singleton design pattern](https://yogeshwarreddy.github.io/SingletonPatternExample/)
   - [Factory design pattern](https://yogeshwarreddy.github.io/FactoryPatternExample/)
@@ -23,4 +23,6 @@
   - [Proxy design pattern](#)
 - Maven Basics, Web/App Server Basics
   - [ParentPom Example](https://yogeshwarreddy.github.io/ParentPom/)
-  
+- Hibernate
+  - [Customer Orders Example](https://yogeshwarreddy.github.io/ShoppingCart_HibernateAssignment/)
+  - [Custom Identity sequence generator](https://yogeshwarreddy.github.io/ShoppingCart_HibernateAssignment/)
